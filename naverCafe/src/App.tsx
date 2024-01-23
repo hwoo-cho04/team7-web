@@ -14,7 +14,7 @@ import PopularBoard from "./components/body/contents/PopularBoard";
 import FreeBoard from "./components/body/contents/FreeBoard";
 import SearchBoard from "./components/body/contents/SearchBoard";
 import Content from "./components/body/Content";
-import Writing from "./components/Writing";
+import Writing from "./components/WriteAritlce";
 import Article from "./components/body/contents/article/Article";
 import UserInfo from "./components/body/contents/userInfo/UserInfo";
 import { useState } from "react";
